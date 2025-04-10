@@ -25,6 +25,9 @@
   <a href="mailto:vanshchopra101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://peerlist.io/vanshavenger">
+    <img src="https://github-readme-badge.peerlist.io/api/vanshavenger?style=for-the-badge" alt=""/>
+  </a>
 </p>
 
 <p align="center">
